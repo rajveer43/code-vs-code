@@ -21,6 +21,9 @@ The goal is to **rebase** both features onto `main` with a clean, linear history
 <commit-hash-2> feat: add subtraction
 <commit-hash-1> feat: initial calculator with addition
 ```
+
+![output](https://github.com/user-attachments/assets/402eb2f1-eaaf-4dcb-b9be-98afe44995f5)
+
 ---
 No merge commits. No branching.
 
